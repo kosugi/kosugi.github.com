@@ -1,0 +1,1 @@
+{"note":"Don't delete this file! It's used internally to help with page regeneration.","tagline":"","name":"index.php","google":"","body":"```\r\n<?php $quine = '<?php $quine = %s%s%s; printf($quine, chr(39), $quine, chr(39));'; printf($quine, chr(39), $quine, chr(39));\r\n```\r\n"}
